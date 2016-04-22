@@ -5,6 +5,6 @@ This program is for Stony Brook University and it gets the courses of the studen
 
 In order to test this program just pull the project using IntelliJ IDE and install tomcat8 as the server.
 
-Please use tomcat8 as the server as the program will not run on versions below tomcat8.
+Please use tomcat8 as the server as the program will not run on any versions below tomcat8.
 
-There is a test web page where user can enter their credentials and it will display the results on the web page.
+Once the user runs the program a test web page opens up where user can enter their credentials and it will display the results on the web page.
