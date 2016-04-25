@@ -6,9 +6,9 @@ This program is for Stony Brook University and it gets the courses of the studen
 In order to test this program just pull the project using IntelliJ IDE and we need to install 2 things: (Note: May have to install github plugin if using IntelliJ for first time).
 
   1. tomcat8 as the server
-  2. PhatomJS 
+  2. PhantomJS 
 
-Link for PhatomJS: http://phantomjs.org/download.html
+Link for PhantomJS: http://phantomjs.org/download.html
 
 Just download and extract the zip to desktop.
 
