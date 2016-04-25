@@ -12,7 +12,7 @@ Link for PhatomJS: http://phantomjs.org/download.html
 
 Just download and extract the zip to desktop.
 
-On line 63 of code, replace the path for the excuetable of phatomJS.
+On line 63 of code, replace the path for the executable of phatomJS.
 
 **Please use tomcat8 as the server as the program will not run on any versions below tomcat8.**
 
